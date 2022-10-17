@@ -1,5 +1,5 @@
 # Salinisation Project
-##Introduction
+## Introduction
 
 In a warmer climate, soil salinity is anticipated to be a substantial and growing concern being one of the major threats to soil stability, fertility, and biodiversity. 
 Salinisation is the accumulation of water-soluble salts in the soil solum or regolith to a level that impacts agricultural production, environmental health and economic welfare 1. There are three types of salinity, namely primary, secondary, and linked to the climate. 

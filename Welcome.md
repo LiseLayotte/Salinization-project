@@ -1,5 +1,5 @@
 # Salinisation Project
-##Introduction
+## Introduction
 
 Keywords: Soil Salinity, Mediterranean, Vineyards, Agricultural Practice, Plant Community, Grime Strategy
 
@@ -23,6 +23,6 @@ We expect some limitations in this study, such as time and human resources limit
 The study can also help with future research about soil salinisation in Southern France, especially in vineyards.
 
 ---
-## OUr mascot
+## Our mascot
 
 ![test](https://upload.travelawaits.com/ta/uploads/2021/04/a-sugar-glider-in-the-wild5be187-1536x1024.jpg)

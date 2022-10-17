@@ -1,7 +1,7 @@
 # Salinisation Project
 ## Introduction
 
-Keywords: Soil Salinity, Mediterranean, Vineyards, Agricultural Practice, Plant Community, Grime Strategy
+**Keywords:** Soil Salinity, Mediterranean, Vineyards, Agricultural Practice, Plant Community, Grime Strategy
 
 In a warmer climate, soil salinity is anticipated to be a substantial and growing concern being one of the major threats to soil stability, fertility, and biodiversity.
 

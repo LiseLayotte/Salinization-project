@@ -28,5 +28,7 @@ Third, the salinity of the soil is high for vineyards with low management. Final
 We expect some limitations in this study, such as time and human resources limitations. Therefore, we do not expect this cross-disciplinary work to be a thorough examination with detailed lists and traits for every part of our subject. We will choose the most significant ones to depict a general diagram of the relationships between soil properties, agriculture and management practices, and plants' functional traits and community structure. We seek a result that will help keep cultivation going in the area and deal with the problem of salinisation. 
 The study can also help with future research about soil salinisation in Southern France, especially in vineyards.
 
+---
+## Our mascot  
 
 ![test](https://upload.travelawaits.com/ta/uploads/2021/04/a-sugar-glider-in-the-wild5be187-1536x1024.jpg)

@@ -1,5 +1,5 @@
 # Salinisation Project
-Our Project!
+##Introduction
 
 Keywords: Soil Salinity, Mediterranean, Vineyards, Agricultural Practice, Plant Community, Grime Strategy
 
@@ -13,14 +13,16 @@ In order to address this issue of soil salinization and its impacts, our study e
 
 South of France, especially Narbonne, has taken pride in their grape production. However, due to increasing salinity, vineyards are currently devastated, challenging the productivity of the farms. These vineyards are also the source of economic income for hundreds of local farmers, which is now at stake. That said, developing a set of integrated and sustainable solutions to this salinity issue is crucial, as land and water resources are central to agriculture. The problems raised can be formulated in questions that this research aims to answer as follows:
 
-How does the agricultural and management practices in Narbonne’s vineyards affect the salinity of their soils?
+1. How does the agricultural and management practices in Narbonne’s vineyards affect the salinity of their soils?
 
-What are the types of vegetation present in the vineyards according to the Grime Strategy?
+2. What are the types of vegetation present in the vineyards according to the Grime Strategy?
 
-What are some possible suggestions that can aid the problem of salinity in studied vineyards?
+3. What are some possible suggestions that can aid the problem of salinity in studied vineyards?
 
 We expect some limitations in this study, such as time and human resources limitations. Therefore, we do not expect this cross-disciplinary work to be a thorough examination with detailed lists and traits for every part of our subject. We will choose the most significant ones to depict a general diagram of the relationships between soil properties, agriculture and management practices, and plants' functional traits and community structure. We seek a result that will help keep cultivation going in the area and deal with the problem of salinisation. 
 The study can also help with future research about soil salinisation in Southern France, especially in vineyards.
 
+---
+## OUr mascot
 
 ![test](https://upload.travelawaits.com/ta/uploads/2021/04/a-sugar-glider-in-the-wild5be187-1536x1024.jpg)

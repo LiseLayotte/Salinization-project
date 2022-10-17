@@ -19,11 +19,6 @@ What are the types of vegetation present in the vineyards according to the Grime
 
 What are some possible suggestions that can aid the problem of salinity in studied vineyards?
 
-Concerning research question number 1, we have four hypotheses. 
-First, the intensity of agricultural practices impacts soil salinity levels. 
-Then, we think the salinity level is dependent on the soil type. Different soil types might result in different salinity levels regardless of other factors. 
-Third, the salinity of the soil is high for vineyards with low management. Finally, the salinity of the soil is low for vineyards with high management. Meanwhile, in relation to research question number 2, we hypothesised that the type of vegetation communities depends on the salt level in the soil. We also believe that high soil salinity favours stress-resistant species.
-
 We expect some limitations in this study, such as time and human resources limitations. Therefore, we do not expect this cross-disciplinary work to be a thorough examination with detailed lists and traits for every part of our subject. We will choose the most significant ones to depict a general diagram of the relationships between soil properties, agriculture and management practices, and plants' functional traits and community structure. We seek a result that will help keep cultivation going in the area and deal with the problem of salinisation. 
 The study can also help with future research about soil salinisation in Southern France, especially in vineyards.
 

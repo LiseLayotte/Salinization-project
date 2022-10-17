@@ -11,14 +11,6 @@ The effects of salinity stress on plant growth and development are significant. 
 
 In order to address this issue of soil salinization and its impacts, our study examines how the agricultural and intensity of management practices, salinity and type of the soils, and plant communities interact, intending to better understand the ecological and pedological processes involved in viticulture. We have taken an interest in doing this work in the vineyards of Narbonne, a commune in Southern France in the Occitanie region. Narbonne is linked to the nearby Canal du Midi and the river Aude by the Canal de la Robine, which runs through the centre of the town. The chosen study site has an interesting soil characteristic and has plenty of orchards and vineyards in different conditions. We also took into account how the area reached the present level of soil salinity, which has resulted in unproductive agricultural fields. Historically, seawater flooding has afflicted this region for both short and lengthy periods.
 
-South of France, especially Narbonne, has taken pride in their grape production. However, due to increasing salinity, vineyards are currently devastated, challenging the productivity of the farms. These vineyards are also the source of economic income for hundreds of local farmers, which is now at stake. That said, developing a set of integrated and sustainable solutions to this salinity issue is crucial, as land and water resources are central to agriculture. The problems raised can be formulated in questions that this research aims to answer as follows:
-
-1. How does the agricultural and management practices in Narbonne’s vineyards affect the salinity of their soils?
-
-2. What are the types of vegetation present in the vineyards according to the Grime Strategy?
-
-3. What are some possible suggestions that can aid the problem of salinity in studied vineyards?
-
 We expect some limitations in this study, such as time and human resources limitations. Therefore, we do not expect this cross-disciplinary work to be a thorough examination with detailed lists and traits for every part of our subject. We will choose the most significant ones to depict a general diagram of the relationships between soil properties, agriculture and management practices, and plants' functional traits and community structure. We seek a result that will help keep cultivation going in the area and deal with the problem of salinisation. 
 The study can also help with future research about soil salinisation in Southern France, especially in vineyards.
 
